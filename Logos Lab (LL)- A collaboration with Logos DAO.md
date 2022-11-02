@@ -83,7 +83,7 @@ Approximately every 6 months LL begins work on a new idea. From that idea we cre
 
 ### Initial roadmap
 What we plan working on in what order:
-- **Boardwalk**: Decentralized marketplaces with built-in reputation
+- **Marketplace**: Decentralized marketplaces with built-in reputation
 - **Tasks**: A UX designed specifically for individuals to earn by providing services for their communities.
 - **Social**: experiments with social media
 - **Shops**: Retail in a decentralized world, SilkRoad 4eVER 
