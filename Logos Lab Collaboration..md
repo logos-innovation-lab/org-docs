@@ -112,6 +112,6 @@ Police
 
 
 ### Limiting our canvas
-We are limiting our canvas to a glass plate-like interface, nowadays referred to as a smartphone or a tablet / computer, or a touch screen on a machine (like swapbox).
+We are limiting our canvas to a glass plate-like interface, nowadays referred to as a smartphone or a tablet / computer, or a touch screen on a machine.
 We are strongly focussed on using Logos and Status as our main media.
 
