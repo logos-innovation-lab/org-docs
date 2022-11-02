@@ -102,9 +102,6 @@ When wanting to collaborate, communications and organisational tools are needed.
 When wanting to trade the fruit of the collaboration
 Darkmarket
 
-**Keycard, Swapbox**
-Crossing over to the real world
-
 **"Sharing" economy**
 Real world services
 Ridesharing
