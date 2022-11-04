@@ -1,4 +1,4 @@
-# Introduction text for discord 
+# Introduction to Logos Innovation Lab
 
 Logos Innovation Lab is a design and R&D studio working on innovating web3 products. It is part of the Logos ecosystem. 
 
