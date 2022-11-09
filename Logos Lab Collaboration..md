@@ -79,7 +79,7 @@ In general:
 **Marketplaces, Shops**
 
 
-**Keycard, Swapbox**
+**Keycard**
 
 
 **"Sharing" economy**
